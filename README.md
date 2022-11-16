@@ -2,7 +2,7 @@
 
 # Link a la pagina Web : https://birds.exitmatrix.ga/
 
-![imagen](https://user-images.githubusercontent.com/102434136/202143407-71bd02ae-dee5-41e4-b2b3-23cfbb608d1f.png)
+![pagina](https://user-images.githubusercontent.com/102434136/202145288-9c6c1f97-49a0-4e36-a008-e4d66ba0a2f1.png)
 
 
 # Getting Started with Create React App
