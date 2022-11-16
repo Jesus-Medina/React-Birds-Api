@@ -1,0 +1,39 @@
+.search-container {
+  position: absolute;
+  left: 40%;
+  top: 10%;
+}
+
+.search-container input {
+  height: 45px;
+  width: 250px;
+  padding: 1rem;
+  font-size: 14px;
+  text-align: center;
+  font-weight: bold;
+
+  outline: none;
+  border-radius: 2rem;
+  border: 1px solid black;
+
+  transition: all .3s ease;
+}
+
+.search-container .search-icon {
+  position: absolute;
+  height: 25px;
+  right: 10px;
+  top: 10px;
+
+  transition: all .2s linear;
+}
+
+.search-container:hover input {
+  transform: scale(1.1); 
+}
+
+.search-container:hover .search-icon {
+  right: 0;
+  top: 12px;
+  height: 20px;
+}

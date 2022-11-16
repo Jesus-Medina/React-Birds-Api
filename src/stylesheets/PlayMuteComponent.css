@@ -1,0 +1,17 @@
+.mute-play-button {
+  position: absolute;
+  left: 30px;
+  top: 20px;
+
+  cursor: pointer;
+}
+
+.mute-play-button img {
+  padding: 1rem;
+  border-radius: 50%;
+  background-color: rgba(128, 128, 128, 0.301);
+}
+
+.mute-play-button:hover img {
+  background-color: rgba(128, 128, 128, 0.486);
+}
